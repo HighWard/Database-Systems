@@ -1,0 +1,20 @@
+
+02/22/2023 11:06:36 ls
+02/22/2023 11:06:36 DB21034E  The command was processed as an SQL statement because it was not a valid Command Line Processor command.  During SQL processing it returned:
+02/22/2023 11:06:36 SQL1024N  A database connection does not exist.  SQLSTATE=08003
+
+02/22/2023 11:14:38 exit
+02/22/2023 11:14:38 DB21034E  The command was processed as an SQL statement because it was not a valid Command Line Processor command.  During SQL processing it returned:
+02/22/2023 11:14:38 SQL1024N  A database connection does not exist.  SQLSTATE=08003
+
+02/22/2023 11:16:57 \q
+02/22/2023 11:16:57 DB21034E  The command was processed as an SQL statement because it was not a valid Command Line Processor command.  During SQL processing it returned:
+02/22/2023 11:16:57 SQL1024N  A database connection does not exist.  SQLSTATE=08003
+
+02/22/2023 11:27:55 \q
+02/22/2023 11:27:55 DB21034E  The command was processed as an SQL statement because it was not a valid Command Line Processor command.  During SQL processing it returned:
+02/22/2023 11:27:55 SQL1024N  A database connection does not exist.  SQLSTATE=08003
+
+02/22/2023 11:27:58 cd ..
+02/22/2023 11:27:58 DB21034E  The command was processed as an SQL statement because it was not a valid Command Line Processor command.  During SQL processing it returned:
+02/22/2023 11:27:58 SQL1024N  A database connection does not exist.  SQLSTATE=08003
